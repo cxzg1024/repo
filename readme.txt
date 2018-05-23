@@ -1,1 +1,2 @@
-Aal izz well
+1.Aal izz well
+2.Git is free software
