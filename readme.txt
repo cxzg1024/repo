@@ -3,3 +3,4 @@
 3.Git has a mutable index called stage
 4.Git tracks changes of files
 5.Creating a new branch is quick and simple
+6.test --no-ff
